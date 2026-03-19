@@ -1,21 +1,21 @@
-# Olá, eu sou o Pedro Horii! 👋
+# Olá, eu sou o Pedro Horii! 
 
-### 🎓 Estudante de Análise de Sistemas
+###  Estudante de Análise de Sistemas
 Atualmente focado em construir uma base sólida no desenvolvimento backend.
 
 ---
 
-### 🚀 O que estou fazendo agora:
-- 💻 **Estudando:** C# (Foco total em Lógica)
-- 🛤️ **Roadmap:** C# ➔ Java
-- 📚 **Plataforma:** Evoluindo diariamente através da Alura
-- 🌎 **Idiomas:** Português (Nativo) | Inglês | Espanhol
+###  O que estou fazendo agora:
+-  **Estudando:** C# (Foco total em Lógica)
+-  **Roadmap:** C# ➔ Java
+-  **Plataforma:** Evoluindo diariamente através da Alura
+-  **Idiomas:** Português (Nativo) | Inglês | Espanhol
 
-### ⚡ Sobre mim:
+###  Sobre mim:
 - 🇵🇾 Atualmente morando no Paraguai.
-- 🏋️‍♂️ Entusiasta de musculação.
-- 🎮 Nas horas vagas, explorando mods e jogando.
+-  Entusiasta de musculação.
+-  Nas horas vagas, explorando mods e jogando.
 
-### 📫 Onde me encontrar:
+###  Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohorii/)
