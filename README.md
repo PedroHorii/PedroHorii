@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Horii! 👋
 
-<!--
-**PedroHorii/PedroHorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Análise de Sistemas
+Atualmente focado em construir uma base sólida no desenvolvimento backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou fazendo agora:
+- 💻 **Estudando:** C# (Foco total em Lógica)
+- 🛤️ **Roadmap:** C# ➔ Java
+- 📚 **Plataforma:** Evoluindo diariamente através da Alura
+- 🌎 **Idiomas:** Português (Nativo) | Inglês | Espanhol
+
+### ⚡ Sobre mim:
+- 🇵🇾 Atualmente morando no Paraguai.
+- 🏋️‍♂️ Entusiasta de musculação.
+- 🎮 Nas horas vagas, explorando mods e jogando.
+
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohorii/)
